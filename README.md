@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MCreator Plugin Porter - Full Repository (Installer-ready)
 =========================================================
 
@@ -36,3 +37,7 @@ Files of interest
 - scripts/build_exe.ps1 -> PowerShell script to build a single-file .exe
 - scripts/nsis_installer.nsi -> Example NSIS installer script
 
+=======
+# MCreator-Plugin-Porter
+This program ports MCreator Plugins to different versions of MCreator
+>>>>>>> e5eb79825ec6a2878fbdc2b6741f9bba41198660
