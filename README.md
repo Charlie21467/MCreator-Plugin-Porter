@@ -6,6 +6,14 @@
 
 ---
 
+## To Run
+
+1. Unzip the .zip file and enter the folder
+2. Run the .bat files
+3. Open the "dist" folder, and the .exe should be there
+
+---
+
 ## What This Tool Does
 
 MCreator Plugin Porter:
